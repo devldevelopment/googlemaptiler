@@ -25,7 +25,7 @@ import java.nio.file.Path;
  * limitations under the License.
  */
 
-public class Program {
+public class TilesGenerator {
   static int TILE_SIZE = 256;
   static String TILE_FILENAME = "tile_%d_%d_%d.png";
   static String OUTPUT_DIR = "./output";
