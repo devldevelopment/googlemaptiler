@@ -11,10 +11,10 @@ Java based version of implementation at
 http://blog.mikecouturier.com/2011/07/create-zoomable-images-using-google.html
 by Mike Couturier
 
-To use run
+To use run after compiling
 
 ```
-TilesGenerator [1-15] [filename] 
+java TilesGenerator [1-15] [filename] 
 
 ```
 where [1-15] signifies the zoom level and the [filename] is the image you want to segment.
